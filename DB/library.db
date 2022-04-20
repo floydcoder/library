@@ -1,0 +1,15 @@
+--drop table if exists book;
+select * from borrowed;
+--INSERT INTO cart (id) VALUES (99)
+--  SELECT book.id,
+--         book.title,
+--         book.author,
+--         book.genre,
+--         book.year,
+--         book.isbn,
+--         book.is_borrowed,
+--         book.borrowing_fee,
+--         book.borrowing_days
+--     FROM book
+--     INNER JOIN borrowed ON book.id = borrowed.id
+

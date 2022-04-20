@@ -1,0 +1,10 @@
+book_id,title,author,genre,year,isbn,is_borrowed,borrowing_fee,borrowing_days
+1,rumpelstiltskin,Jacob Grimm,fairy tale,1900,9780152695255,0,3.99,12
+2,Blaming,Elizabeth Taylor,Horror,1976,9728952695357,0,5.99,3
+3,A Higher Loyalty,James Comey,Politics,2018,9780152695357,0,10.99,8
+4,Peaces,Helen Oyeyemi,Fantasy,2021,9780152111357,0,2.99,17
+5,To Paradise,Hanya Yanagihara,History,2022,9717925111357,0,4.99,20
+6,The Circle,Dave Eggers,Horror,2013,9717925111130,0,2.00,31
+8,Empire of Pain,Patrick Radden Keefe,Politics,2021,9717345111132,0,1.99,33
+9,The Interestings,Meg Wolitzer,fairy tale,2013,9717345119999,0,4.99,88
+10,Lost in Shangri-La,Mitchell Zuckoff,History,2011,9717345114444,0,1.88,34
